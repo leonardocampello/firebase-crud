@@ -1,2 +1,3 @@
-# firebase-crud
-React Native with Firebase
+# CRUD PROJECT - REACT NATIVE + FIREBASE
+
+npm install
